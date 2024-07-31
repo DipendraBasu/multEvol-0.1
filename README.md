@@ -4,7 +4,7 @@
 
 ## (a) Study system
 
-This example uses a subset of the images that were analysed in our [biorXiv manuscript](https://www.biorxiv.org/content/10.1101/2022.06.19.496720v1). In total, 29 images of individual forewings (5 species/sex combinations; 4--5 images per species/sex combination) are being used to evaluate mimetic convergence in forewing colour patterns between species. The wings were photographed under constant light conditions and the images were cleaned in Adobe Photoshop to remove the background and to repair any damage due to scale loss or tearing. Cleaned forewing images (.jpg) of the following species were included:
+This example uses a subset of the images that were analysed in our manuscript. In total, 29 images of individual forewings (5 species/sex combinations; 4--5 images per species/sex combination) are being used to evaluate mimetic convergence in forewing colour patterns between species. The wings were photographed under constant light conditions and the images were cleaned in Adobe Photoshop to remove the background and to repair any damage due to scale loss or tearing. Cleaned forewing images (.jpg) of the following species were included:
 
 1.  **Model species**: *Tirumala septentrionis* (Tiru_sept) and *Parantica aglea* (Para_agle).
 
@@ -41,7 +41,6 @@ The package can be installed directly from GitHub:
     devtools::install_github("DipendraBasu/multEvol-0.1")
     library(multEvol)
 
-Please report any issues with the package [here](https://github.com/DipendraBasu/multEvol-0.1/issues).
 
 # II. Shape data
 
